@@ -11,6 +11,18 @@
   </a>
 </div>
 
+<p>
+
+*Hola Mundo!*
+  
+  Mi nombre es **Jose** y soy un apasionado **autodidacta** que está enfocado en explorar el fascinante mundo del backend, donde utilizo *Java* como mi lenguaje de programación preferido. He invertido tiempo en aprender tecnologías como *JavaScript, Angular, SQL y SpringBoot*. Con 28 años, decidí embarcarme en esta emocionante travesía hacia el desarrollo de software.
+  
+  Desde finales de 2023, me sumergí de lleno en este viaje de aprendizaje y crecimiento, motivado por una insaciable curiosidad y un deseo de ampliar mis habilidades. Desde entonces, la programación me ha cautivado con su capacidad para crear soluciones innovadoras y resolver problemas de manera creativa, y estoy emocionado por lo que el futuro me depara en este apasionante campo. 
+  
+  Estoy aquí para aprender, crecer y compartir mi pasión por la codificación con la comunidad!
+</p>
+
+
 <!-- 
 
 **JosseGonnza/jossegonnza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
