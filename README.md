@@ -1,4 +1,5 @@
-<h1>👋 Hola, soy Jose González Quevedo <img src="https://acortar.link/PrxtFA" width="50"></h1> 
+<p align="center">👋 Hey!! Échame un ojo! <img src="https://acortar.link/PrxtFA" width="50"></p> 
+<h1 align="center">Soy Jose González Quevedo</h1>
 
 ![Banner_github](https://github.com/JosseGonnza/jossegonnza/assets/149838507/4775cd18-4684-4c2f-8739-77b6c98806ba)
 
