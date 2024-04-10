@@ -1,4 +1,4 @@
-<h1>Hola, soy Jose González Quevedo <img src="https://acortar.link/dhHr1a" width="50"></h1>
+<h1>Hola, soy Jose González Quevedo <img src="[https://acortar.link/dhHr1a](https://acortar.link/PrxtFA)" width="50"></h1>
 
 
 <!-- 
