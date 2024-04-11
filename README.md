@@ -16,7 +16,7 @@
 
 *Hola Mundo!*
   
-  Mi nombre es **Jose** y soy un apasionado **autodidacta** que está enfocado en explorar el fascinante mundo del backend, donde utilizo *Java* como mi lenguaje de programación preferido. He invertido tiempo en aprender tecnologías como *JavaScript, Angular, SQL y SpringBoot*. Con 28 años, decidí embarcarme en esta emocionante travesía hacia el desarrollo de software.
+  Mi nombre es **Jose** y soy un apasionado **autodidacta** que está enfocado en explorar el fascinante mundo del backend, donde utilizo *Java* como mi lenguaje de programación preferido. He invertido tiempo en aprender tecnologías como *JavaScript, Angular, SQL y SpringBoot*. Al fín decidí embarcarme en esta emocionante travesía hacia el desarrollo de software.
   
   Desde finales de 2023, me sumergí de lleno en este viaje de aprendizaje y crecimiento, motivado por una insaciable curiosidad y un deseo de ampliar mis habilidades. Desde entonces, la programación me ha cautivado con su capacidad para crear soluciones innovadoras y resolver problemas de manera creativa, y estoy emocionado por lo que el futuro me depara en este apasionante campo. 
   
