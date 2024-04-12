@@ -1,7 +1,8 @@
 <p align="center">👋 Hey!! Échame un ojo!    <img src="https://acortar.link/PrxtFA" width="50"></p> 
 <h1 align="center">Soy Jose González Quevedo</h1>
 
-![Banner_github](https://github.com/JosseGonnza/jossegonnza/assets/149838507/4775cd18-4684-4c2f-8739-77b6c98806ba)
+![banner_github2](https://github.com/JosseGonnza/jossegonnza/assets/149838507/338f92e7-6093-4e38-8845-6ae16a955b49)
+
 
 <div align="center">
   <a href="https://github.com/JosseGonnza" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/0905e38a-742f-41f2-ae42-93e17d3035b7"></a>
