@@ -1,17 +1,12 @@
-<p align="center">👋 Hey!! Échame un ojo!<img src="https://acortar.link/PrxtFA" width="50"></p> 
+<p align="center">👋 Hey!! Échame un ojo!    <img src="https://acortar.link/PrxtFA" width="50"></p> 
 <h1 align="center">Soy Jose González Quevedo</h1>
 
 ![Banner_github](https://github.com/JosseGonnza/jossegonnza/assets/149838507/4775cd18-4684-4c2f-8739-77b6c98806ba)
 
-<div align="center" style="display:flex;">
-  <a href="https://github.com/JosseGonnza">
-    <img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/377b72a2-6438-40d6-96e6-cb7fd4621ed3" alt="GitHub" width="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/jose-gonz%C3%A1lez-quevedo-1a21272b0/">
-    <img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/8a082b42-89ae-46ad-9aa0-c27ad7977452" alt="LinkedIn" width="50"/>
-  </a>
+<div align="center">
+  <a href="https://github.com/JosseGonnza" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/0905e38a-742f-41f2-ae42-93e17d3035b7"></a>
+  <a href="https://www.linkedin.com/in/jose-gonz%C3%A1lez-quevedo-1a21272b0/" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/02f571f6-cd91-46d6-bf5a-e29bc5819d05"></a>
 </div>
-
 <p>
 
 *Hola Mundo!*
@@ -23,19 +18,32 @@
   Estoy aquí para aprender, crecer y compartir mi pasión por la codificación con la comunidad!
 </p>
 
+<h2>Tecnologías</h2>
+<div align="center">
+  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-**JosseGonnza/jossegonnza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-Here are some ideas to get you started:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+</div>
+
+
+
+
