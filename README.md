@@ -7,6 +7,8 @@
 <div align="center">
   <a href="https://github.com/JosseGonnza" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/0905e38a-742f-41f2-ae42-93e17d3035b7"></a>
   <a href="https://www.linkedin.com/in/jose-gonz%C3%A1lez-quevedo-1a21272b0/" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/02f571f6-cd91-46d6-bf5a-e29bc5819d05"></a>
+  
+  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-green?style=for-the-badge&link=https://jossegonnza.github.io/portfolio/)](https://jossegonnza.github.io/portfolio/)
 </div>
 <p>
 
@@ -44,7 +46,6 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
-
 
 
 
