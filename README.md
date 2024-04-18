@@ -1,3 +1,4 @@
+
 <p align="center">👋 Hey!! Échame un ojo!    <img src="https://acortar.link/PrxtFA" width="50"></p> 
 <h1 align="center">Soy Jose González Quevedo</h1>
 
@@ -47,5 +48,16 @@
 
 </div>
 
+___
+<div align="right">
+  
+![Profile View Counter](https://komarev.com/ghpvc/?username=JosseGonnza&color=02867e)
+</div>
 
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=JosseGonnza&theme=tokyonight-duo&hide_border=true&locale=es&background=22272EE7&ring=00BFB2&fire=00BFB2&currStreakNum=C3F8FF&sideNums=C3F8FF&sideLabels=00BFB2&dates=C3F8FF&currStreakLabel=00BFB2" height="150"/>
 
+</div>
+
+___
