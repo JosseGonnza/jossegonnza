@@ -9,7 +9,7 @@
   <a href="https://github.com/JosseGonnza" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/0905e38a-742f-41f2-ae42-93e17d3035b7"></a>
   <a href="https://www.linkedin.com/in/jose-gonz%C3%A1lez-quevedo-1a21272b0/" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/02f571f6-cd91-46d6-bf5a-e29bc5819d05"></a>
   
-  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-green?style=for-the-badge&link=https://jossegonnza.github.io/portfolio/)](https://jossegonnza.github.io/portfolio/)
+  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-green?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://jossegonnza.github.io/portfolio/)](https://jossegonnza.github.io/portfolio/)
 </div>
 <p>
 
@@ -61,5 +61,4 @@ ___
   <img src="https://streak-stats.demolab.com?user=JosseGonnza&theme=tokyonight-duo&hide_border=true&locale=es&background=22272EE7&ring=00BFB2&fire=00BFB2&currStreakNum=C3F8FF&sideNums=C3F8FF&sideLabels=00BFB2&dates=C3F8FF&currStreakLabel=00BFB2" height="150"/>
 
 </div>
-
-___
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
