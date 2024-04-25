@@ -1,4 +1,3 @@
-
 ![banner_github2](https://github.com/JosseGonnza/jossegonnza/assets/149838507/338f92e7-6093-4e38-8845-6ae16a955b49)
 
 
@@ -70,4 +69,4 @@ ___
   <img src="https://streak-stats.demolab.com?user=JosseGonnza&theme=tokyonight-duo&hide_border=true&locale=es&background=22272EE7&ring=00BFB2&fire=00BFB2&currStreakNum=C3F8FF&sideNums=C3F8FF&sideLabels=00BFB2&dates=C3F8FF&currStreakLabel=00BFB2" height="150"/>
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
