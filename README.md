@@ -1,7 +1,4 @@
 
-<p align="center">👋 Hey!! Échame un ojo!    <img src="https://acortar.link/PrxtFA" width="50"></p> 
-<h1 align="center">Soy Jose González Quevedo</h1>
-
 ![banner_github2](https://github.com/JosseGonnza/jossegonnza/assets/149838507/338f92e7-6093-4e38-8845-6ae16a955b49)
 
 
@@ -11,10 +8,9 @@
   
   [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-green?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://jossegonnza.github.io/portfolio/)](https://jossegonnza.github.io/portfolio/)
 </div>
-<p>
 
-*Hola Mundo!*
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=4000&color=ACF700&random=false&width=435&lines=%F0%9F%91%8B+Hola+Mundo!;%F0%9F%92%AB+Soy+Jose+Gonz%C3%A1lez+Quevedo;%F0%9F%92%BB+Bienvenido+a+mi+perfil!;%F0%9F%A7%A0+Soy+Back-End+Developer)](https://git.io/typing-svg)
+<p>  
   Mi nombre es **Jose** y soy un apasionado **autodidacta** que está enfocado en explorar el fascinante mundo del backend, donde utilizo *Java* como mi lenguaje de programación preferido. He invertido tiempo en aprender tecnologías como *C#, TypeScript, Angular, SQL, .NET y SpringBoot*. Al fín decidí embarcarme en esta emocionante travesía hacia el desarrollo de software.
   
   Desde finales de 2023, me sumergí de lleno en este viaje de aprendizaje y crecimiento, motivado por una insaciable curiosidad y un deseo de ampliar mis habilidades. Desde entonces, la programación me ha cautivado con su capacidad para crear soluciones innovadoras y resolver problemas de manera creativa, y estoy emocionado por lo que el futuro me depara en este apasionante campo. 
