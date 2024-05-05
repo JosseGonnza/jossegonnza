@@ -1,19 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9df2ea&animation=fadeIn&height=120&section=header"/>
 
-<p align="center">👋 Hey!! Échame un ojo!    <img src="https://acortar.link/PrxtFA" width="50"></p> 
-<h1 align="center">Soy Jose González Quevedo</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=4000&color=aaf0d1&random=false&width=435&lines=%F0%9F%91%8B+Hola+Mundo!;%F0%9F%92%AB+Soy+Jose+Gonz%C3%A1lez+Quevedo;%F0%9F%92%BB+Bienvenido+a+mi+perfil!;%F0%9F%A7%A0+Soy+Back-End+Developer)](https://git.io/typing-svg)
 
-![banner_github2](https://github.com/JosseGonnza/jossegonnza/assets/149838507/338f92e7-6093-4e38-8845-6ae16a955b49)
-
-
-<div align="center">
-  <a href="https://github.com/JosseGonnza" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/0905e38a-742f-41f2-ae42-93e17d3035b7"></a>
-  <a href="https://www.linkedin.com/in/jose-gonz%C3%A1lez-quevedo-1a21272b0/" ><img src="https://github.com/JosseGonnza/jossegonnza/assets/149838507/02f571f6-cd91-46d6-bf5a-e29bc5819d05"></a>
-  
-  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-green?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://jossegonnza.github.io/portfolio/)](https://jossegonnza.github.io/portfolio/)
-</div>
-<p>
-
-*Hola Mundo!*
+<p> 
   
   Mi nombre es **Jose** y soy un apasionado **autodidacta** que está enfocado en explorar el fascinante mundo del backend, donde utilizo *Java* como mi lenguaje de programación preferido. He invertido tiempo en aprender tecnologías como *C#, TypeScript, Angular, SQL, .NET y SpringBoot*. Al fín decidí embarcarme en esta emocionante travesía hacia el desarrollo de software.
   
@@ -21,6 +10,8 @@
   
   Estoy aquí para aprender, crecer y compartir mi pasión por la codificación con la comunidad!
 </p>
+
+___
 
 <h2>Tecnologías</h2>
 <div align="center">
@@ -49,16 +40,6 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)
-
 ___
 <div align="right">
   
@@ -70,4 +51,4 @@ ___
   <img src="https://streak-stats.demolab.com?user=JosseGonnza&theme=tokyonight-duo&hide_border=true&locale=es&background=22272EE7&ring=00BFB2&fire=00BFB2&currStreakNum=C3F8FF&sideNums=C3F8FF&sideLabels=00BFB2&dates=C3F8FF&currStreakLabel=00BFB2" height="150"/>
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
