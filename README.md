@@ -40,6 +40,7 @@ ___
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
+
 ___
 <div align="right">
   
