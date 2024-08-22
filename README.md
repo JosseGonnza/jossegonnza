@@ -9,7 +9,7 @@
 
 </div>
 
-Cuando quise entender que los **"Programmers are like gods, pathetic little gods."** ya era demasiado tarde, estaba metido hasta el cuello...  
+Cuando quise entender que: **"Programmers are like gods, pathetic little gods."**, ya era demasiado tarde, estaba metido hasta el cuello...  
 Y sonriendo!!
 
 Soy **Jose** y estoy aquí para aprender y dejar huella, una endiosada y patética huella, mi huella al fin y al cabo. Tengo a la espalda menos años de los que aparento y más palos de los que me gustaría. (Nadie dijo que mi README tuviese que ser objetivo...) Pero en fin, me gusta crear cosas, cosas que funcionen y me faciliten la vida (o nos faciliten la vida si prefieres), todos ganamos.
