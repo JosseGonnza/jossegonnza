@@ -9,12 +9,12 @@
 
 </div>
 
-Cuando quise entender que: **"Programmers are like gods, pathetic little gods."**, ya era demasiado tarde, estaba metido hasta el cuello...  
-Y sonriendo!!
+Ey! Que tal?
+Si has llegado hasta aquí, será que quieres saber más... Te comento:
 
-Soy **Jose** y estoy aquí para aprender y dejar huella, una endiosada y patética huella, mi huella al fin y al cabo. Tengo a la espalda menos años de los que aparento y más palos de los que me gustaría. (Nadie dijo que mi README tuviese que ser objetivo...) Pero en fin, me gusta crear cosas, cosas que funcionen y me faciliten la vida (o nos faciliten la vida si prefieres), todos ganamos.
+Soy Jose, desarrollador backend, gran lector y amigo de mis amigos (la típica 🙄). Destaquemos también que me encanta cocinar, esta faceta arraigó en mi cuando me dí cuenta de lo fantástico que es comer (comer con conciencia) y además me encanta escribir, os invito a pasaros por mi blog! Es importante decir también que me gusta programar, aunque esa parte se intuye mejor.
 
-Sigo aprendiendo a dejar el mundo un poco mejor de lo que lo encontré y cuando sabes que estás en el lugar correcto... Todo es más sencillo.
+Por aquí se pueden ver varias cosillas con las que trasteo en los repositorios, sean todos bienvenidos!
 
 <div align="right">
   #AnotherDev
