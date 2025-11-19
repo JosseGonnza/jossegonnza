@@ -12,7 +12,7 @@
 Ey! Que tal?
 Si has llegado hasta aquí, será que quieres saber más... Te comento:
 
-Soy Jose, desarrollador backend, gran lector y amigo de mis amigos (la típica 🙄). Destaquemos también que me encanta cocinar, esta faceta arraigó en mi cuando me dí cuenta de lo fantástico que es comer (comer con conciencia) y además me encanta escribir, os invito a pasaros por mi blog! Es importante decir también que me gusta programar, aunque esa parte se intuye mejor.
+Soy Jose, desarrollador backend (cursando actualmente el grado de DAW 🤘), gran lector y amigo de mis amigos (la típica 🙄). Destaquemos también que me encanta cocinar, esta faceta arraigó en mi cuando me dí cuenta de lo fantástico que es comer (comer con conciencia) y además me encanta escribir, ya os dejaré el enlace al blog que estoy preparando jeje Es importante decir también que me gusta programar, aunque esa parte se intuye mejor (creo..).
 
 Por aquí se pueden ver varias cosillas con las que trasteo en los repositorios, sean todos bienvenidos!
 
@@ -58,7 +58,7 @@ ___
 
   [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jossegonnzablog.super.site/)
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/JosseGonnza)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jossegonnza.github.io/portfolio)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jossegonnza.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jossegonnza)
 
 </div>
