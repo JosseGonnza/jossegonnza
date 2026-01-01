@@ -17,7 +17,7 @@ Soy Jose, desarrollador backend (cursando actualmente el grado de DAW 🤘), gra
 Por aquí se pueden ver varias cosillas con las que trasteo en los repositorios, sean todos bienvenidos!
 
 <div align="right">
-  #AnotherDev
+  #AnotherDev2026
 </div>
 
 ___
